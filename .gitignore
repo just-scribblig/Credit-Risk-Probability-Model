@@ -1,1 +1,2 @@
-Data/data.csv
+Data/raw/data.csv
+Data/processed/eda_processed.csv
